@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "taborg",
+  "author": "Furkan Bozdag",
+  "version": "1.0.0",
+  "description": "",
+  "icons": {},
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"]
+}
